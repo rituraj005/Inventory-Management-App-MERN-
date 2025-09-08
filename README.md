@@ -42,7 +42,7 @@ A simple MERN project that lets the user insert, update, delete & get products f
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/d846ff43-6abd-4baa-9ed6-df736f2d411e)
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/cc6368bd-f391-4d6b-b814-c931d48a0878)
 -->
-
+ https://rituraj005.github.io/Inventory-Management-App-MERN-/
 # Inventory Management System
 
 A simple full-stack application to manage inventory, built using **MERN stack** (MongoDB, Express.js, React.js, Node.js).
